@@ -23,6 +23,8 @@ public class EjemploCaracteres {
 		
 		palabra = palabra + " 2023";
 		System.out.println("Valor de la variable palabra es: "+palabra);
+		
+		System.out.println("\nFinal");
 	}
 
 }
