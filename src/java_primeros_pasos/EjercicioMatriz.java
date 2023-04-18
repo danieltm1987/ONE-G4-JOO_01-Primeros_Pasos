@@ -25,7 +25,7 @@ public class EjercicioMatriz {
 				System.out.print("*");				
 				System.out.print(" ");
 			}
-			System.out.println();
+			System.out.println("Que paso");
 		}
 
 	}
